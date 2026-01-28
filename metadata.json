@@ -1,0 +1,8 @@
+{
+  "name": "Copy of WASO AI Assistant",
+  "description": "WASO (Wasin Assistant Support Operations) is a professional, bilingual AI assistant created by Wasin. Expert in programming and technical support.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
